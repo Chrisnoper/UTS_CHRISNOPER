@@ -1,0 +1,23 @@
+1.Jelaskan menurut anda apa itu struktur data!
+2.Jelaskan menurut anda kegunaan struktur data!
+3.Sebutkan jenis-jenis struktur data yang anda ketahui dan jelaskan!
+>>>4.Jelaskan menurut anda apa itu Array dan kegunaannya untuk apa!
+>>>5.Berikan contoh array yang anda ketahui!
+>>>6.Buatlah dengan bahasa pemrograman yang anda kuasai contoh dari struktur data menurut pandangan anda!
+
+
+
+# JAWABAN
+>> 1.Struktur data itu adalah cara buat mengatur dan mengolah data dalam komputer agar dapat di akses
+
+>> 2.sebagai salah satu cara untuk mengelolah dan mengakses secara efisien dan mudah dimengerti 
+
+>> 3.-Struktur Data Linear : Dimana data datanya tersusun secara berurutan dimana setiap elemenya melekat pada elemen sebelumnya.Struktur Data Static yaitu data yang punya ukuran dan memori yang tetap.Struktur Data Dinamis yang ukuranya tidak tetap dan bisa diubah ubah sesuai kompleksnya 
+
+>> 4.array ini adalah kumpulan dari item yang sama yang disimpan di lokasi memori yang berdekatan.
+
+>> 5.Array satu dimensi,Array dua dimensi,Array Multidimensi
+
+>> 6. nama = "chrisnoper"
+
+> print(nama)
